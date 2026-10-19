@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+img, video {
+    border: 2px solid black;
+    margin: 10px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+} 
